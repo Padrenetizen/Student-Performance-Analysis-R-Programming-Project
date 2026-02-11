@@ -1,10 +1,10 @@
-Student Performance Analysis in R
+## Student Performance Analysis in R
 
 This project explores student performance data using R to identify key factors that influence academic outcomes. The analysis includes data cleaning, transformation, exploratory data analysis (EDA), and data visualization.
 
 Using packages such as dplyr, ggplot2, and tidyr, the project examines relationships between variables like study time, failures, internet access, family background, and grades. Visualizations and summary statistics are used to uncover patterns and generate actionable insights.
 
-🔧 Tools & Technologies
+## Tools & Technologies
 
 R
 
@@ -16,7 +16,7 @@ tidyr
 
 RStudio
 
-📈 Key Objectives
+## Key Objectives
 
 Clean and prepare raw student data
 
